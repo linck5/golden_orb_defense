@@ -1,10 +1,10 @@
 <h1>Golden Orb Defense</h1>
 
-<p>In this defense game, you are a flying orb shooting at enemies trying to get to the bottom. You can also place and upgrade barriers and towers that shoot at enemies. Placing a barrier over enemies instantly kills them 
+<p>In this defense game, you are a flying orb shooting at enemies trying to get to the bottom. You can also place and upgrade barriers and towers that shoot at enemies. Placing a barrier over enemies instantly kills them</p>
 
-To open this project, use <a href="https://eclipse.org/">Eclipse</a>
+<p>To open this project, use <a href="https://eclipse.org/">Eclipse</a></p>
 
-There is an executable jar file included</p>
+<p>There is an executable jar file included</p>
 
 <h3>Instructions<h3>
 
