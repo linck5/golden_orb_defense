@@ -1,0 +1,4 @@
+# Codigo;Tipo ( 1 - Portal);Pvar;Pop (0 == ,  1 >, 2 <);Pvalor;x;y;x destino;y destino;Avar;Aop ( 0 =, 1 +=, 2-=);Avalor
+#0;1;0;0;0;5;5;10;10;0;0;1
+#1;1;0;0;1;10;15;4;8;0;0;2
+#2;1;0;0;2;15;10;8;4;0;0;0
