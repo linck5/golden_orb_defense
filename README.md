@@ -1,6 +1,6 @@
 <h1>Golden Orb Defense</h1>
 
-<p>In this defense game, you are a flying orb shooting at enemies trying to get to the bottom. You can also place and upgrade barriers and towers that shoot at enemies. Placing a barrier over enemies instantly kills them</p>
+<p>In this defense game, you are a flying orb shooting at enemies that are trying to get to the bottom. You can also place and upgrade barriers and towers that shoot at enemies. Placing a barrier over enemies instantly kills them</p>
 
 <p>To open this project, use <a href="https://eclipse.org/">Eclipse</a></p>
 
